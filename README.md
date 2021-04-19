@@ -1,1 +1,1 @@
-# RocketModPlugin.SDLangSystem
+# RocketModPlugin.SDLangSystem - Multilanguage
