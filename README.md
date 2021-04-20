@@ -52,8 +52,7 @@ Configuration
 
 Commands
 ===========
-> * /lang
-> Just change language for player. Premission: language
+> * /lang - Just change language for player. Premission: language
 
 Why Developers must use LIB, not this plugin?
 ===========
