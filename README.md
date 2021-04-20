@@ -56,6 +56,7 @@ Commands
 
 Why Developers must use LIB, not this plugin?
 ===========
-If serverowner don't need multi-language support, he don't want install this plugin, and then developer's plugin will crash (If developer don't add too much trashcodes). My library check, is player have SDLangSystem, and if plugin not found - it will use standart Translation system of RocketMod
+If serverowner don't need multi-language support, he don't want install this plugin, and then developer's plugin will crash (If developer don't add too much trashcodes). My library check, is player have SDLangSystem, and if plugin not found - it will use standart Translation system of RocketMod.
+And second problem is my fresh code, that soon will be remake, but all libs will work good.
 
 Library: https://github.com/LenzMix/RocketModLibrary.MultiLanguage
