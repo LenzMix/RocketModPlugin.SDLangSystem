@@ -54,6 +54,11 @@ Commands
 ===========
 > * /lang - Just change language for player. Premission: language
 
+In future
+===========
+* Agressive translation - It will make copy all of plugins (Who don't use library), make copy documents of translations for all languages and remake Translate() function LanguageSystem
+* Google Translator API anf Yandex Translator API - Its need only for BIG project that can pay for this API to Google or Yandex - It can automatic translate all translation list and automatic translate all player's messages in chat
+
 Why Developers must use LIB, not this plugin?
 ===========
 If serverowner don't need multi-language support, he don't want install this plugin, and then developer's plugin will crash (If developer don't add too much trashcodes). My library check, is player have SDLangSystem, and if plugin not found - it will use standart Translation system of RocketMod.
